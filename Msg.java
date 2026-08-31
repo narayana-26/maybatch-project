@@ -1,5 +1,5 @@
 public class Msg {
-	public static void main(string[] args) {
-		system.out.println("Hello Good Evening:");
+	public static void main(String[] args) {
+		System.out.println("Hello Good Evening:");
 	}
 }
